@@ -1,0 +1,11 @@
+.idea
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings
+target
+pom.xml.releaseBackup
+release.properties
+
